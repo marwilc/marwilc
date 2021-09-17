@@ -1,6 +1,6 @@
 <p align="center">
     <img
-        src="./1F66C5FD-6454-46F6-AF4D-C61E905935A7.png"
+        src="./coding.jpg"
         width="140">
 </p>
 
