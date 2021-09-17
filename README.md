@@ -1,7 +1,7 @@
 <p align="center">
     <img
         src="./coding.jpg"
-        width="140">
+        >
 </p>
 
 <p align="center">
